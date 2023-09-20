@@ -1,7 +1,7 @@
 <!-- Header Section -->
 # 👋 Hi, I'm Oscar!
 
-I'm a data enthusiast on a journey to decode the mysteries of the data universe 🚀. Fluent in three languages—Spanish 🇪🇸, Italian 🇮🇹, and English 🇬🇧—I love turning numbers into meaningful insights and crafting data stories that captivate and inspire.
+I'm a data enthusiast on a journey to decode the mysteries of the data universe 🚀. Fluent in three languages—Spanish 🇪🇸, Italian 🇮🇹, and English 🇬🇧—I love turning numbers into meaningful insights.
 
 <!-- About Me Section -->
 ## 📊 Data Alchemist
