@@ -10,7 +10,7 @@ I'm a data enthusiast on a journey to decode the mysteries of the data universe 
 
 - My trusty data toolbox, which I acquired through the rigorous data analytics certification program at La Escuela Británica de Artes y Tecnología (it takes me 1 year!), equips me with the skills to transform raw data into actionable insights.
 
-- 🎓 Soon, I'll be embarking on an expedition into the world of data science as I start my Master's degree at the Rome Business School 🇮🇹. This new chapter promises to be an exploration of data's limitless possibilities.
+- 🎓 Soon, I'll embark on an expedition into the world of data science as I start my Master's degree at the Rome Business School 🇮🇹. This new chapter promises to be an exploration of data's limitless possibilities.
 
 <!-- Skills Section -->
 ## 💼 Toolbox
@@ -18,6 +18,7 @@ I'm a data enthusiast on a journey to decode the mysteries of the data universe 
 In my trusty data toolbox, you'll find:
 - Python 🐍: My go-to for dissecting data.
 - Power BI 💡: Where I craft data into beautiful stories.
+- Google Data Studio 💡: Data visualization tool used secondly.
 - SQL 🗄️: The language that helps me speak to databases.
 - GitHub 🐙: My creative canvas for coding adventures.
 - And a sprinkle of machine learning magic 🧙‍♂️!
