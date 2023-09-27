@@ -8,7 +8,7 @@ I'm a data enthusiast on a journey to decode the mysteries of the data universe 
 
 - As an economist with a Bachelor's degree from the Escuela Colombiana de Ingenieria Julio Garavito, I've mastered the art of economics, mathematics, statistics, and Excel, forging a solid foundation for my data-driven adventures.
 
-- My trusty data toolbox, which I acquired through the rigorous data analytics certification program at La Escuela Británica de Artes y Tecnología (it takes me 1 year!), equips me with the skills to transform raw data into actionable insights.
+- My trusty data toolbox, which I acquired through the rigorous data analytics certification program at La Escuela Británica de Artes y Tecnología (it took me 1 year!), equips me with the skills to transform raw data into actionable insights.
 
 - 🎓 Soon, I'll embark on an expedition into the world of data science as I start my Master's degree at the Rome Business School 🇮🇹. This new chapter promises to be an exploration of data's limitless possibilities.
 
