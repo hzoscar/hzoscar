@@ -1,16 +1,20 @@
 <!-- Header Section -->
 # 👋 Hi, I'm Oscar!
 
-I'm a data enthusiast on a journey to decode the mysteries of the data universe 🚀. Fluent in three languages—Spanish 🇪🇸, Italian 🇮🇹, and English 🇬🇧—I love turning numbers into meaningful insights.
+I'm a data enthusiast on a journey to decode the mysteries of the data universe 🚀. Fluent in three languages—Spanish 🇪🇸, Italian 🇮🇹, and English (in progress) 🇬🇧—I love turning numbers into meaningful insights.
 
 <!-- About Me Section -->
 ## 📊 Data Alchemist
 
 - As an economist with a Bachelor's degree from the Escuela Colombiana de Ingenieria Julio Garavito, I've mastered the art of economics, mathematics, statistics, and Excel, forging a solid foundation for my data-driven adventures.
 
-- My trusty data toolbox, which I acquired through the rigorous data analytics certification program at La Escuela Británica de Artes y Tecnología (it took me 1 year!), equips me with the skills to transform raw data into actionable insights.
+- My trusty data toolbox, which I acquired through:
+  1. The rigorous data analytics certification program at La Escuela Británica de Artes y Tecnología (it took me 1 year!) and,
+  2. the hands-on Data science boot camp that I'm currently taking at Alura Latam 
+ equips me with the skills to transform raw data into actionable insights.
 
-- 🎓 Soon, I'll embark on an expedition into the world of data science as I start my Master's degree at the Rome Business School 🇮🇹. This new chapter promises to be an exploration of data's limitless possibilities.
+
+- 🎓 Recently, I have started a Master's degree in data science at Rome Business School 🇮🇹. This new chapter promises to be an exploration of data's limitless possibilities.
 
 <!-- Skills Section -->
 ## 💼 Toolbox
@@ -26,7 +30,13 @@ In my trusty data toolbox, you'll find:
 <!-- Projects Section -->
 ## 🚀 Projects
 
-Feel free to explore the projects on my GitHub repository (https://github.com/hzoscar/EBACMX-Data-Analytics-Course) which I did during the data analytics certification program. Each project is a step forward on my data-driven journey, showcasing my skills and passion.
+Feel free to explore the projects on my GitHub repositories:
+
+- Data science BootCamp:
+    1. Trading bot: 
+
+
+(https://github.com/hzoscar/EBACMX-Data-Analytics-Course) which I did during the data analytics certification program. Each project is a step forward on my data-driven journey, showcasing my skills and passion.
 
 <!-- Contact Section -->
 ## 📫 Let's Connect!
