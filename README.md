@@ -33,10 +33,12 @@ In my trusty data toolbox, you'll find:
 Feel free to explore the projects on my GitHub repositories:
 
 - Data science BootCamp:
-    1. Trading bot: 
+  1. Trading bot (python): https://github.com/hzoscar/ds_challenge_1
 
-
-(https://github.com/hzoscar/EBACMX-Data-Analytics-Course) which I did during the data analytics certification program. Each project is a step forward on my data-driven journey, showcasing my skills and passion.
+- Data analytics program:
+  1. Exploratory Data Analysis (python-EDA): https://github.com/hzoscar/EBACMX-Data-Analytics-Course/tree/main/Part%204%20%E2%80%93%20EDA%20Exploratory%20Data%20Analysis/module%2020%20-                  %20Exploratory%20Data%20Analysis%20II
+  2. Supermarket Sales Analysis (Postgresql): https://github.com/hzoscar/EBACMX-Data-Analytics-Course/tree/main/Part%2010%20-%20Non-relational%20databases%20and%20project%20part%202/module%2040%20-%20Exploratory%20data%20analysis%20with%20SQL
+  3. Cloud Analytics in AWS(looker studio -AWS): https://github.com/hzoscar/EBACMX-Data-Analytics-Course/tree/main/Part%2013%20-%20%20Cloud%20Analytics%20in%20AWS
 
 <!-- Contact Section -->
 ## 📫 Let's Connect!
