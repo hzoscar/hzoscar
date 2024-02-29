@@ -35,6 +35,7 @@ Feel free to explore the projects on my GitHub repositories:
 - ### Data science BootCamp:
   1. Trading bot (Jupyter Notebook): https://github.com/hzoscar/ds_challenge_1_Trading_Bot
   2. Clustering (Jupyter Notebook): https://github.com/hzoscar/ds_challenge_3_Clustering
+  3. Data insider - Data Visualization (Jupyter Notebook): https://github.com/hzoscar/ds_challenge_2_Data_Insider
 
 - ### Data analytics program:
   1. Exploratory Data Analysis (python-EDA): https://github.com/hzoscar/EBACMX-Data-Analytics-Course/tree/main/Part%204%20%E2%80%93%20EDA%20Exploratory%20Data%20Analysis/module%2020%20-                  %20Exploratory%20Data%20Analysis%20II
