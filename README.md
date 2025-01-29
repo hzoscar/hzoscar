@@ -39,9 +39,10 @@ Machine Learning: Hands-on project experience.
 ### Personal Projects
 1. [Global Chess Trends Explorer (PostgreSQL + Python + Streamlit)](https://github.com/hzoscar/chess_rating_analytics_project_streamlit.git)  
    Analysis of the top 100 players from every nation.
+   To see a preview of the app [click here!](https://drive.google.com/file/d/1SLC-oTGvW6mfJFyd4r0HZIPEg85sQggm/view?usp=sharing)
 
 ### International Master in Data Science Project
-1. [Customer Segmentation (Jupyter Notebook + Looker Studio)](https://github.com/hzoscar/customer-segmentation)  
+1. [Customer Segmentation (Jupyter Notebook + Looker Studio)](https://github.com/hzoscar/capstone-project-RBS.git)  
    RFM analysis in conjunction with unsupervised clustering algorithms (KMeans).
 
 ### Data Science Boot Camp Projects
